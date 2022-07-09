@@ -1,2 +1,2 @@
-This's 
+This is 
 my git repository
